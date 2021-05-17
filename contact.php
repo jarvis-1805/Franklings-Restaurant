@@ -91,7 +91,7 @@
                     $message .= "\r\n\r\nPlease add $email to the mailing list.\r\n";
                 }
 
-                $message = wordwrap($message, 72);
+                $message = wordwrap($message, 70);
 
                 // Set the mail headers into a variable
                 $headers  = "MIME-Vesion: 1.0\r\n";
