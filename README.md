@@ -21,14 +21,14 @@ This is a small dynamic website.
 
     Find the hosted website here: [Franklin's Dining](https://franklins-fine-dining.herokuapp.com/)
 
-### License
+## License
 
 The MIT Open-Source License
 
-### Screenshot
+## Screenshot
 
 ![alt text](assets/images/screenshot.png)
 
-#### Author
+## Author
 
 [Shubhang Gupta](https://jarvis-1805.github.io/)
