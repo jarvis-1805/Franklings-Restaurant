@@ -1,6 +1,6 @@
-# Franklings-Restuarant
+# Franklings-Restaurant
 
-The website is build for a (fictional) retaurant "Franklin's Fine Dining".
+The website is built for a (fictional) retaurant "Franklin's Fine Dining".
 
 This is a small dynamic website.
 
